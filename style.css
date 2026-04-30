@@ -42,11 +42,17 @@ nav ul {
   gap: 3rem; 
 }
 
+footer {
+  width: 100vw;
+  height: 100px;
+  background: #354e41;
+}
+
 body {
   padding-top: 150px;
 }
 
-
+/*home*/
 .home-hero-text, .event-details{
   text-align: center;
   padding: 3rem 1rem;
@@ -64,7 +70,13 @@ body {
   flex-direction: column;
   gap: 0.2rem;
   font-weight: 500;
+  margin-bottom: 100px;
 }
+/*home*/
+
+
+
+
 
 
 
