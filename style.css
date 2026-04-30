@@ -7,7 +7,6 @@ html {
   color: #222;
   line-height: 1.4;
   font-size: 16pt;
-  font-family: 'Lexend', sans-serif;
 }
 
 header {
@@ -23,7 +22,7 @@ nav {
   height: 100%;
   display: flex;
   align-items: center;       
-  justify-content: space-between;
+  justify-content: flex-start;
   padding: 0 4rem;
 }
 
@@ -40,6 +39,11 @@ nav ul {
   list-style: none;
   gap: 3rem; 
 }
+
+body {
+  padding-top: 150px;
+}
+
 
 
 
