@@ -90,6 +90,41 @@ body {
 }
 /*home*/
 
+/*about*/
+.about-container h2 {
+  text-align: center;
+  padding: 3rem 1rem;
+  margin: 0 auto;
+  font-size: 2.3rem;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 3rem 3rem 8rem 3rem;
+}
+
+.image-container img {
+  width: 300px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 50%;
+  justify-content: space-evenly;
+}
+
+.about-text-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  ext-align: center;
+  padding: 0 1rem;
+  margin-bottom: 6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  font-size: 1.1rem;
+}
+/*about*/
 
 
 
