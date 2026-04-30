@@ -9,6 +9,15 @@ html {
   font-size: 16pt;
 }
 
+header {
+  height: 150px;
+  width: 100%;
+  background: #588157;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
 
 
 
