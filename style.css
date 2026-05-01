@@ -74,6 +74,8 @@ body {
 
 .home-hero-text h1 {
   font-size: 3rem;
+  font-family: "Asimovian", sans-serif;
+  letter-spacing: 0.2rem;
 }
 
 .home-hero-text p {
@@ -96,6 +98,8 @@ body {
   padding: 3rem 1rem;
   margin: 0 auto;
   font-size: 2.3rem;
+  font-family: "Asimovian", sans-serif;
+  letter-spacing: 0.2rem;
 }
 
 .image-container {
