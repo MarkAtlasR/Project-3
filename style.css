@@ -54,7 +54,7 @@ nav a{
   font-size: 1.5rem;
   white-space: nowrap; 
   display: inline-block;
-  transition: transform 0.2s ease;
+  transition: transform 200ms ease;
 }
 
 nav a:hover {
@@ -160,6 +160,12 @@ body {
   margin-bottom: 1.5rem;
   border-radius: 20px;
   border: 2px solid #b3cfb2;
+  display: inline-block;
+  transition: transform 200ms ease;
+}
+
+.time-block:hover {
+  transform: translateX(15px);
 }
 
 .time-block h3 {
